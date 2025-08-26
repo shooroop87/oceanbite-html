@@ -225,6 +225,7 @@ Desc:
     .mobile-sidebar .logo-m {
         margin-top: -30px;
         margin-bottom: 10px;
+        width: 160px;
     }
     
     .mobile-sidebar .contact-icon{
